@@ -45,7 +45,7 @@ The player who succeeds in placing three of their marks in a horizontal, vertica
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-gui.git
+   git clone https://github.com/GZ-Starter/tic-tac-toe-gui.git
    cd tic-tac-toe-gui
    ```
 
